@@ -1,10 +1,10 @@
 # <b>Hello! I'm Taro Suzuki</b>
-<p align="center">
-  <img align="center" src="logo2.jpg" style = "width: 33%;"/>
-  <img align="center" src="logo1.jpg" style = "width: 33%;"/>
-  <img align="center" src="logo4.jpg" style = "width: 33%;"/>
-</p>
-
+<h1 align="center">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+  <a href="https://join.skype.com/invite/A3T4pSMKQgoA"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/></a>
+</h1> 
   <p style="fontSize:15px">
  Full Stack Developer with 5+ years of experience building and deploying production web applications
   using JavaScript, Node.js, React, and Django. Strong background in backend API development, database
